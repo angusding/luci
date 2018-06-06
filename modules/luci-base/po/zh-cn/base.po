@@ -1031,7 +1031,7 @@ msgid "Enable/Disable"
 msgstr "启用/禁用"
 
 msgid "Enabled"
-msgstr "启用"
+msgstr "已启用"
 
 msgid "Enables IGMP snooping on this bridge"
 msgstr ""
