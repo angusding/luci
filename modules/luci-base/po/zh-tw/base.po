@@ -878,8 +878,8 @@ msgstr ""
 msgid "Description"
 msgstr "描述"
 
-msgid "Design"
-msgstr "設計規劃"
+msgid "Theme"
+msgstr "主題"
 
 msgid "Destination"
 msgstr "目的地"
