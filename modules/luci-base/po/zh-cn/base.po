@@ -884,7 +884,7 @@ msgstr "发送流量指示消息间隔"
 msgid "Description"
 msgstr "描述"
 
-msgid "Design"
+msgid "Theme"
 msgstr "主题"
 
 msgid "Destination"
