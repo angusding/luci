@@ -900,8 +900,8 @@ msgstr ""
 msgid "Description"
 msgstr "Descripción"
 
-msgid "Design"
-msgstr "Diseño"
+msgid "Theme"
+msgstr "El tema"
 
 msgid "Destination"
 msgstr "Destino"
