@@ -884,8 +884,8 @@ msgstr ""
 msgid "Description"
 msgstr "תיאור"
 
-msgid "Design"
-msgstr "עיצוב"
+msgid "Theme"
+msgstr "נושא"
 
 msgid "Destination"
 msgstr "יעד"
