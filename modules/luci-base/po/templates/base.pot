@@ -851,7 +851,7 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-msgid "Design"
+msgid "Theme"
 msgstr ""
 
 msgid "Destination"
