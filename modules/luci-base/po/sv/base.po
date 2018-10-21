@@ -872,8 +872,8 @@ msgstr ""
 msgid "Description"
 msgstr "Beskrivning"
 
-msgid "Design"
-msgstr ""
+msgid "Theme"
+msgstr "Tema"
 
 msgid "Destination"
 msgstr "Plats"
