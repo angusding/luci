@@ -893,8 +893,8 @@ msgstr ""
 msgid "Description"
 msgstr "Popis"
 
-msgid "Design"
-msgstr "Vzhled"
+msgid "Theme"
+msgstr "Téma"
 
 msgid "Destination"
 msgstr "Cíl"
