@@ -928,8 +928,8 @@ msgstr ""
 msgid "Description"
 msgstr "Beschreibung"
 
-msgid "Design"
-msgstr "Design"
+msgid "Theme"
+msgstr "Thema"
 
 msgid "Destination"
 msgstr "Ziel"
